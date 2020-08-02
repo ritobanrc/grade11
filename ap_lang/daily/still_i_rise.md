@@ -1,7 +1,7 @@
-title: Still I Rise
-author: Maya Angelou
-date: 01 Aug 2020
-medium: Poetry
+# Still I Rise
+* Author: Maya Angelou
+* Date: 01 Aug 2020
+* Medium: Poetry
 
 I really liked this poem. It fits nicely into nearly any social movement, any revolution, any rising up of an oppressed or marginalized group. While there are several allusions to the specifics of Civil Rights in America, the poem is really quite flexible in how it can be interpreted.
 
