@@ -21,6 +21,7 @@
 - [Welcome Letter](./welcome_letter.md)
 - [Joyas Voladeras](./joyas_voladeras.md)
 - [How to Say Nothing In 500 Words](./how_to_say_nothing.md)
+- [City Upon a Hill: SOAPSTONER & Precis](./city_upon_a_hill.md)
 - [Words To Own](./words_to_own.md)
 - [Thought for the Day](./daily/README.md)
     - [Still I Rise](./daily/still_i_rise.md)

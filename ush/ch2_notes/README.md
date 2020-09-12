@@ -221,3 +221,5 @@ Mostly men immigrated |
     - 1664, Maryland, Baptism doesn't affect slave status
     - Intermarriage disallowed
 * **Triangular Trade**
+
+
