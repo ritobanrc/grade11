@@ -7,3 +7,6 @@ title = "AP Language and Composition"
 
 [output.html.fold]
 enable = true
+
+[preprocessor.pandoc-format]
+command = "mdbook-pandoc-format"

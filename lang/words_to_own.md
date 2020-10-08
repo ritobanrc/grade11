@@ -52,8 +52,29 @@ Syntax: the way you construct your sentences, and the impact of those
 
 **Juxtaposition**: Putting two distinct things next to each other for effect
 
+**Parallelism**: repetition of words for or phrases that have similar grammatical structure.
+
 **Anaphora**: Repetition of identical words or phrases at the beginning sentences or phrases
 
+**Epistrophe**: Repetition of word or clause at the end of sentences or phrases
+
+## Logical Fallacies
+
+**Scare tactics** or appeal to force/fear: nonrational persuasion designed to invoke fear by threatening the safety or happiness of ourselves or those we love.
+
+**Bandwagon**: appeal to common belief or appeal to the masses. It’s all about getting someone to do something because “everyone else is doing it”.
+
+**Slippery slope**: suggests that unlikely or ridiculous outcomes are likely when there is just not enough evidence to think so.
+
+**Loaded question**: You are asked a question that has a presumption built into it so that it couldn’t be answered without appearing guilty
+
+The **hasty generalization** fallacy is sometimes called the over-generalization fallacy. It is basically making a claim based on evidence that it just too small. Essentially, you can't make a claim and say that something is true if you have only an example or two as evidence.
+
+Sometimes called the “either-or” fallacy, a **false dilemma** is a logical fallacy that presents only two options or sides when there are many options or sides. Essentially, a false dilemma presents a “black and white” kind of thinking when there are actually many shades of gray.
+
+**Appeal to Belief**: When the claim that most or many people in general or of a particular group accept a belief as true is presented as evidence for the claim. Accepting another person’s belief, or many people’s beliefs, without demanding evidence as to why that person accepts the belief, is lazy thinking and a dangerous way to accept information.
+
+**Shifting the burden of proof**, a special case of argumentum ad ignorantium, is the fallacy of putting the burden of proof on the person who denies or questions the assertion being made. The source of the fallacy is the assumption that something is true unless proven otherwise.
 
 ## Tropes
 Word choice (diction), figurative language
@@ -66,4 +87,4 @@ Word choice (diction), figurative language
 
 **Hyperbole**: derived from a Greek word meaning “over-casting,” is a figure of speech that involves an exaggeration of ideas for the sake of emphasis. It is a device that we employ in our day-to-day speech. ... Therefore, a hyperbole is an unreal exaggeration to emphasize the real situation.
 
-
+**Understatement**: The presentation of something as being smaller, worse, or less important than it actually is. A rhetorical form in which the force of a descriptive statement is less than what one would normally expect.

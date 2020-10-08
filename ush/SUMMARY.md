@@ -10,3 +10,7 @@
     - [SAQ - Cheasapeake v New England](./ch2_notes/saq_cheasapeake_new_england.md)
 - [Ch 3. Colonial Society in the Eighteenth Century](./ch3_notes/README.md)
     - [Sinners in the Hand of an Angry God](./ch3_notes/psa_the_great_awakening.md)
+- [Ch 4. Imperial Wars and Colonial Protest](./ch4_notes/README.md)
+- [Ch 5. The American Revolution and Confederation](./ch5_notes/README.md)
+- [Ch 6. The Constitution and the New Republic](./ch6_notes/README.md)
+    - [Unit 3 Study Guide](./ch6_notes/study_guide.md)
