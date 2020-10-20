@@ -14,3 +14,5 @@
 - [Ch 5. The American Revolution and Confederation](./ch5_notes/README.md)
 - [Ch 6. The Constitution and the New Republic](./ch6_notes/README.md)
     - [Unit 3 Study Guide](./ch6_notes/study_guide.md)
+- [Ch 7. The Age of Jefferson](./ch7_notes/README.md)
+    - [Interpretation: Causes of the War of 1812](./ch7_notes/war_of_1812_interp.md)

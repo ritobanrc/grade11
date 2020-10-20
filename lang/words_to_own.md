@@ -88,3 +88,7 @@ Word choice (diction), figurative language
 **Hyperbole**: derived from a Greek word meaning “over-casting,” is a figure of speech that involves an exaggeration of ideas for the sake of emphasis. It is a device that we employ in our day-to-day speech. ... Therefore, a hyperbole is an unreal exaggeration to emphasize the real situation.
 
 **Understatement**: The presentation of something as being smaller, worse, or less important than it actually is. A rhetorical form in which the force of a descriptive statement is less than what one would normally expect.
+
+
+## Archetypes
+* The concept of an archetype appears in areas relating to behavior, historical psychology, and literary analysis. An archetype can be: a statement, pattern of behavior, prototype, _"first" form_, or a main model that other statements, patterns of behavior, and objects copy, emulate, or "merge" into

@@ -8,7 +8,9 @@ csl: mla8.csl
 bibliography: ./bibliography.bib
 ---
 
-
+```{=tex}
+\( \frac x y \)
+```
 
 
 \newpage

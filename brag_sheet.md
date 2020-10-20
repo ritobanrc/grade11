@@ -24,7 +24,7 @@ output:
 * Email: 
     - `ritobanroy-chowdhury485@riversideunified.org` (school)
     - `ritobanrc@gmail.com` (personal)
-* Phone Number: 9515338867
+* Phone Number: +1 951-533-8867
 * Parents:
     - Amit Kumar Roy Chowdhury (father)
         - Professor of Electrical and Computer Engineering at the University of California, Riverside

@@ -1,6 +1,7 @@
 # Ch 6. The Constitution and the New Republic
 
 ## Problems under AoC
+* Only 4 years
 * Foreign problems (violated Treaty of Paris)
     - National Govt. Could not collect taxes
     - Failed to pay debts to Great Britain
@@ -8,20 +9,25 @@
 * Economic weaknesses
     - Restricted Trade (England refuses to trade, England controls the seas)
     - Limited Credit (the colonies don't have trust)
+    - Inflation because of money printing
+    - No taxes
     - Leads to depression
     - Increased **tariffs between states**
 * _Hamilton_ and _Madison_ invite delegates to **Annapolis Convention**
     - Only 5 states show up
     - Agree to meet again in Philadelphia
 
-## Drafting the Constiution
+## Drafting the Constitution
+* All states (except Rhode Island) send delegates to Philadelphia 
 * The Delegates
     - 55 all white, mostly extremely wealthy, mostly young, mostly college educated
     - Various people tasked with writing specific articles
         * Largely James Madison
     - Many leaders not present: Paine, both Adams, Jefferson, John Jay, Patrick Henry
         * Some were ambassadors
+* Agree to work in secret, say nothing to public, George Washington as chairman
 * Revisionism (modify AoC) vs. **New Constitution** (Nationalism, wins)
+    - Madison and Hamilton argue for New constitution
 * Representation
     - Population v. States
         * **Madison's Virginia Plan**: Bicameral, Proportional representation
@@ -45,6 +51,8 @@
     - Only 9/13 states to agree
 
 ## Federalists vs Anti-Federalists
+* Federalists largely in cities, Atlantic Coast
+* Anti-Federalists small farmers, western frontier
 * The Federalist Papers
     - Essays by Hamilton (51), Madison (26), Jay (6)
     - Pen name of Publius
@@ -74,7 +82,7 @@
     - Treasury: Hamilton
     - War: Knox
     - Attorney General: Edmund Randolph
-* Federal Court System (Supreme Court &)
+* Federal Court System (Supreme Court & and local courts)
     - First Chief Justice: John Marshall, Cousin of Jefferson
     - Congress authority to create court system
     - **Judiciary Act 1789**: Chief Justice w/ 5 associate justices
@@ -90,7 +98,10 @@
 * Supported by Northern Merchants
 * Opposed by Anti-Federalists (Jefferson)
     - Abuse of Power
-* Jefferson agrees to move Capital to DMV (Delaware, Maryland, Virginia) intersections
+* Compromise
+    * Jefferson agrees with 1, wants to move Capital to DMV (Delaware, Maryland, Virginia) intersections
+    * Lower tariffs than what Hamilton wanted
+    * Bank of US privately owned, US major shareholder
 
 ### Foreign Affairs
 * The French Revolution
@@ -167,3 +178,8 @@
 * Jefferson/Burr tie, Hamilton's influence breaks tie
 * Peaceful Transfer of Power
     - "Revolution of 1800"
+
+
+DBQ Thesis: Evaluate the extent to which the ratification of the United States Constitution fostered political change in the United States from 1777 to 1800.
+
+> The ratification of the Constitution did not cause a significant political change, as it maintained the same skepticism of large central government and consolidated power that marked the Articles of Confederation. However, the ratification of the constitution did bring about a shift in how united the colonists saw themselves.

@@ -65,6 +65,25 @@
         - American encroachments on territory → Native Americans to support British
 
 ### Initial American Losses and Hardships
+* 75-77 went badly, near Disaster in NYC 
+    - British have NY and Philly 
+    - Camped at **Valley Forge** through the winter 
+* British occupy ports → 95% percent decline in trade → no goods, lots of inflation
+
+### Alliance with France
+* Turning Point: **Battle of Saratoga**
+    - British surrounded by Americans
+* French (Louis XVI) joins the war
+    - Goal: Weaken Britain
+    - Spain and Holland also support America later
+
+### Victory
+* British leave Philly, consolidate in YN
+* _Southern Strategy_: Focus on Virginia and Carolines (many loyalists)
+* **Yorktown**: Last Major Battle (Virginia)
+    - Support from French
+    - _General Charles Cornwallis_ surrenders to Washington
+* Several Tory ministers resign
 
 
 ### Treaty of Paris
@@ -80,13 +99,25 @@
     - commonalities incl.:
     - List of Rights, Separation of Powers, Voting, Office Holdings
 
+## Governmental Organization
+
+### State Governments
+* Most states already have individual constitution
+* w/ Bill of Rights
+* Separation of Powers:
+    - Legislative, Executive, Judicial
+* Voting: All property-owning white males
+* Office-holding: Requires even more property
+
 ### Articles of Confederation
+* Written in Philadelphia, 1776, simultaneous w/ Declaration of Independence
 * _John Dickenson_
 * Agreement between colonies, adopted 1777
     - Unicameral Congress
     - Each state = 1 vote, 9/13 required for passage
     - Amendments required unanimity
     - **Committee of States**: 1 minor representative per state when full congress not in session
+* Dispute over lands west of Alleghenies, but eventually ratified
 * Powers:
     * Could wage war, make treaties, diplomacy
     * Borrow money, but not regulate taxes or commerce
@@ -103,5 +134,22 @@
         - **Response was divided by class**: Those in higher classes, like General Henry Knox, were scornful of the poor, like Daniel Shays, and were worried that legislatures might start to heed the concerns of the poor, leading to property loss for the wealthy, either as taxes or redistributive policies.
         - **Jefferson's response**: The colonies have been peaceful. Jefferson says Shays' Rebellion is the only example of any unrest. Instead, he's worried that liberties, specifically the right of the people, especially the working classes, to rebel and express dissatisfaction with their government will be curtailed. He thinks freedom to rebel should be important, and rebellions should be somewhat common to keep leaders on their toes and actively resolving problems. 
 
-        
+## Social Change
 
+### Abolition of Aristocracy
+* No titles of nobility, no primogeniture
+* Loyalist estates confiscated
+
+### Separation of Church and State
+* Anglican church disestablished
+* New Hampshire, Connecticut, and Mass. still support Congregational Church
+
+### Women
+* Ran farms and business during the war
+* Provided clothing
+* No improvement in status
+
+### Slavery
+* It still existed
+* Continental Congress end importation in 20 years
+* Southern States rationalize it
