@@ -26,6 +26,7 @@
     - [SOAPSTONER](./sinners_hands_angry_god/soapstoner.md)
     - [Mimic](./sinners_hands_angry_god/mimic.md)
 - [Declaration of Independence](./declaration_of_independence.md)
+    - [Rhetorical Analysis](./declaration_of_independence/rhetorical_analysis.md)
 - [The Great Gatsby](./great_gatsby/README.md)
     - [Great Gatsby ARNs](./great_gatsby/arn.md)
 - [Novel Focus Group](./focus_group/README.md)

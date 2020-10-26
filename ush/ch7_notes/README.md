@@ -3,22 +3,25 @@
 ## Loyalty with an Olive Branch
 * Kept Hamilton's National Bank
     - "Olive Branch"
+* Maintained Neutrality
 * Limited Central Govt.
     - Reduced military size
     - Reduce federal jobs
-    - Repeal excise taxes (from Adams and Washington)
+    - Repeal excise taxes (from Adams and Washington, incl. whiskey)
     - Lowered National Debt
+* Only nominated Dem-Reps to cabinet to avoid internal dissent
 
 ### Louisiana Purchase
 * Remember _Pickney Treaty_ -- treaty with Spain
+    - Spain has Louisiana Territory and New Orleans
     - Allowed US access to Port of New Orleans + Mississippi
 * Napoleon is trying to conquer the world right now
-    - Has a large plot of land in western US
+    - Forces Spain to give hem Louisiana Territory
     - Currently fighting with England, using lots of resources
     - Haitian revolt → France really short on resources
 * Spanish revoke Pickney Treaty → Jefferson is worried
-    - Settlers west were expecting, relying on Mississippi
-    - Jefferson sends ambassadors to Napoleon w/ 10 mn for Port of New Orleans
+    - Settlers west (Indiana) were expecting, relying on Mississippi
+    - Jefferson sends ambassadors to Napoleon w/ 10 mn for **Port of New Orleans**
     - Plan B: Alliance with English, try to defeat Napoleon
     - Napoleon offers _entire Louisiana territory_ for **15 mn**
         * Insane, 3c / acre
@@ -27,6 +30,7 @@
     - Constitution doesn't explicitly say president can buy land
     - Jefferson is strict constitutionalist → Dilemma with himself
 * Puts idealism aside, decides its better for the country if he buys the land
+    - Decides its ok based on Presidential power to make treaties
     - Federalists attack him, he's reneging on his ideals
     - Backfires on the Federalists, looks like they don't want free land 
 
@@ -35,7 +39,8 @@
     - Supported Jefferson's ideal of **independent farmers**
     - Federalists look weak
 * **Lewis and Clark**
-    - Scientific exploration, from St. Louis to Oregon Frontier
+    - Led by Captain **Meriwether Lewis** and Lieutenant **William Clark**
+    - Scientific exploration, from St. Louis to Oregon Coast
     - Better maps -- map out the western US
 
 ## John Marshall and SCOTUS
@@ -45,10 +50,16 @@
 * Goes to Supreme Court
 * Chief Justice **John Marshall** (Jefferon's cousin)
     - Judiciary Act says Marbury has the commission
-    - But Marshal says, _Judiciary Act_ as a whole is unconstitutional
+    - But Marshall says, _Judiciary Act_ as a whole is unconstitutional
 * "Judicial Review" -- SCOTUS rules don't just apply to the specific case, they set the interpretation for the _entire country_ 
     - Supreme Court effectively gets _Power to create law_
     - Vastly Expands power of Federal government -- Democratic-Republicans fucked up
+
+### Judicial Impeachments
+* Suspended Alien and Sedition Acts
+* Jefferson supported impeaching federalist judgges
+    - Samuel Chase impeached but acquitted 
+    - Another district court judge found "mentally unbalanced" 
 
 ## Jefferson's Re-election
 * **Aaron Burr**: VP in first term
@@ -62,7 +73,8 @@
     - Doesn't want military to turn against citizens
     - Also Saves money, lowers national debt
 * Halts Washington & Adams policy
-* Washington and Adams pay tribute to Barbary governments to protect US merchant ships 
+* Washington and Adams paid tribute to **Barbary governments** to protect US merchant ships 
+    - Pasha of Tripoli increases the tribute
     - Jefferson doesn't like this, sends naval fleet to island of Tripoli
     - No decisive military victory, realizes that US can't win on open sea (Navy not large enough)
     - Challenges idea of "small military"
@@ -79,6 +91,11 @@
 
 * Madison is short (5' 4") and not particularly charismatic (not a good public speaker)
 
+### The Election of 1808
+* Nominated with Jefferson's help
+* Defeat Pinckney
+* Federalists gain seats in congress, unhappiness over embargo
+
 ### Commerical Warfare
 * Nonintercourse Act (1809)
     - Eliminates Embargo Act for everyone except Britain and France
@@ -86,6 +103,10 @@
     - Would restore trade with _either_ Britain or France
     - Whichever agrees to respect American Neutrality gets to trade, other one doesn't 
 * Napoleon's Deception
+    - Napoleon says he'll agree
+    - US embargoes trade with Britain
+    - Napoleon continues to seize merchant ships
+
 
 ### War Hawks
 * New wave of anti-European congresspeople

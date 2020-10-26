@@ -47,7 +47,7 @@ What is your first thought or impression of the intro?
 Corresponding to the truths
 
 **5 Propositions**:
-1. All men have certain unalienable rights.
+1. All men have certain unalienable rights
 2. The purpose of governments is to secure these rights
 3. If the government fails to fulfill its purpose, the people have the right to abolish it
 4. Governments should not be changed for minor issues, because revolution is messy
