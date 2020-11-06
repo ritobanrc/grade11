@@ -1,7 +1,8 @@
 # Ch 7. The Age of Jefferson
+* "We are all Republicans, we are all Federalists"
 
 ## Loyalty with an Olive Branch
-* Kept Hamilton's National Bank
+* Kept Hamilton's National Bank + debt repayment plan
     - "Olive Branch"
 * Maintained Neutrality
 * Limited Central Govt.
@@ -19,7 +20,7 @@
     - Forces Spain to give hem Louisiana Territory
     - Currently fighting with England, using lots of resources
     - Haitian revolt → France really short on resources
-* Spanish revoke Pickney Treaty → Jefferson is worried
+* Spanish revoke _right of deposit_ in Pickney Treaty → Jefferson is worried
     - Settlers west (Indiana) were expecting, relying on Mississippi
     - Jefferson sends ambassadors to Napoleon w/ 10 mn for **Port of New Orleans**
     - Plan B: Alliance with English, try to defeat Napoleon
@@ -44,14 +45,17 @@
     - Better maps -- map out the western US
 
 ## John Marshall and SCOTUS
+* Appointed by Adams, served for 34 years, strengthened central govt.
 * Adams packed the courts before leaving w/ Federalists: _"midnight appointments"_
-    - **William Marbury** promised a seat by Adams
-    - Madison has to give Judges comission, Jefferson instructs Madison not to
+
+### Marbury v. Madison
+- **William Marbury**, midnight appointment promised a seat by Adams
+- Madison has to give Judges commission, Jefferson instructs Madison not to
 * Goes to Supreme Court
 * Chief Justice **John Marshall** (Jefferon's cousin)
     - Judiciary Act says Marbury has the commission
     - But Marshall says, _Judiciary Act_ as a whole is unconstitutional
-* "Judicial Review" -- SCOTUS rules don't just apply to the specific case, they set the interpretation for the _entire country_ 
+* Establishes "Judicial Review" -- SCOTUS rules don't just apply to the specific case, they set the interpretation for the _entire country_ 
     - Supreme Court effectively gets _Power to create law_
     - Vastly Expands power of Federal government -- Democratic-Republicans fucked up
 
@@ -65,19 +69,32 @@
 * **Aaron Burr**: VP in first term
     - Democratic-Republican caucus chooses not to run him again
 * Federalist Conspiracy
-    - Burr makes pact with NE Federalists to secede from nation
-    - Hamilton finds out, calls him out → _Duel_ → Hamilton dies → Burr tries flees to Mexico → Jefferson sends Burr to Trial → Marshall acquits Burr
+    - Burr plans to win NY governor, and then lead NE to secede
+    - Hamilton opposes Burr
+    - Hamilton finds out, calls him out 
+    - _Duel_ 
+    - Hamilton dies 
+    - Burr tries flees to Mexico and possibly unite it with US? 
+    - Jefferson arrets Burr and sends to Trial 
+    - Marshall acquits Burr
+
+* Also challenges from "Quids", Republican opponents of Jefferson
 
 ### Foreign Policy
 * Goal: Reduce size of military 
     - Doesn't want military to turn against citizens
     - Also Saves money, lowers national debt
-* Halts Washington & Adams policy
 * Washington and Adams paid tribute to **Barbary governments** to protect US merchant ships 
     - Pasha of Tripoli increases the tribute
     - Jefferson doesn't like this, sends naval fleet to island of Tripoli
     - No decisive military victory, realizes that US can't win on open sea (Navy not large enough)
     - Challenges idea of "small military"
+* Challenges to Neutrality
+    - Britain and France
+    - Naval blockades
+    - Seized neutral ships, confiscated cargo
+    - Impressment is a problem
+    - Mostly Britain
 * **Chesapeake-Leopard Affair**
     - Leopard (British Ship) attack Chesapeake (American Ship)
         - British deserters on the Chesapeake
@@ -85,6 +102,7 @@
     - Instead decides on **Embargo of 1807**
         - Stops all trade with British Merchants
         - Backfires, Leads to _depression_ and unrest
+        - Britain just moves to South America
 
 ## Madison Presidency
 > Wherever the real power in Government lies, there is a danger of oppression -- James Madison, Letter to Jefferson, 1788
@@ -93,7 +111,8 @@
 
 ### The Election of 1808
 * Nominated with Jefferson's help
-* Defeat Pinckney
+    - Other factions of Republicans nominated other candidates
+* Defeats Pinckney and the rest
 * Federalists gain seats in congress, unhappiness over embargo
 
 ### Commerical Warfare
@@ -125,20 +144,36 @@
 ### The War of 1812
 * Invasion of Canada
     - Economic and Political opportunity 
-    - Try a 3 part invasion, but it's poorly coordinated
-    - It fails
-    - British still have army in the US -- even manage to burn down white house
+    - Try a 3 part invasion (Detroit, Niagra, Lake Champlain), but it's poorly coordinated
+    - It fails, except a couple of Canadian govt. buildings burned
+    - Leads to more British retaliation
 * Naval Battles
-    - These are pretty even
-    - Lake Eerie
-    - Battle of New Orleans → Andrew Jackson becoming popular
+    - Some victories (NE shipbuilding)
+    - _Constiution_ sinks a British ship
+    - Privateers also capture some British ships
+    - But British blockade → reduced trade
+    - _Lake Eerie_
+        - **Captain Oliver Hazard Perry** declares victory after 3 hours
+    - _Battle of Thames River_
+        - **General William Henry Harrison** wins
+        - Tecumseh killed
+* Chesapeake Campaign
+    - Napoleon defeated → British focus on America
+    - British march into D.C, burn white house, Capitol
+    - Fail to take Fort McHenry (Star Spangled Banner)
+* Southern Campaign
+    - **General Andrew JAckson**
+    - _Battle of Horseshoe Bend_ (Alabama)
+        * Eliminate Creek nation (British ally) 
+        * More lands for settlers 
+    - British blocked at New Orleans (but after Treaty of Ghent)
 
 ### Treaty of Ghent (1814)
 * Effectively stalemate
-* No more fighting, trade would continue
+* No more fighting, return of all territory, revert US-Canada border
 * Doesn't resolve impressment or naval blockage
 
-### The Hardford Convention
+### The Hartford Convention
 * Federalist Party meet in Hartford to threaten succession
     - Policy rejected, but still painted as traitors
 * Try to weaken Dem-Reps 
