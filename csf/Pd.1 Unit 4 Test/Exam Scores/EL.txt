@@ -1,0 +1,35 @@
+1)   3/5
+The question asked you to draw out the algebra tiles, not just the area model, so it should look like this: 
+
++------+------+--+--+--+--+--+
+|      |      |  |  |  |  |  |
+| x^2  | x^2  |x |x |x |x |x |
+|      |      |  |  |  |  |  |
++------+------+--+--+--+--+--+
+|  x   |   x  |1 |1 |1 |1 |1 |
++------+------+--+--+--+--+--+
+
+2)   0/3
+The correct answer is C. 
+
+3)   6/8
+Make sure to completely simplify for both c and d. They should be
+c. (m-2)(5m-4)  (you could factor out a -1 from both terms, and they'd cancel)
+d. 3p(5p - 1)   (you can factor out a 3 from the second term)
+
+4)   5/5
+5)   5/5
+6)   3/3
+7)   3/3
+8)   3/3
+9)   6/6
+10)  4/6
+cos(49) = 8/c, not sin.
+
+Bonus)   1/4
+a. It's factorable (13x - 17)(13x + 17)
+b. It should be (x+5)^2, not just (x+5). 
+c. It should be (4x - 1)^2. You can't put the 2 to the left, that's not how exponent notation works. 
+
+Total)   39/47
+

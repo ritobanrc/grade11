@@ -18,3 +18,5 @@
 
 5. The author seems to believe that we can learn from our mistakes. Do you think history can teach us lessons? Why or why not?
     - History certainly can teach us lessons. Its the fundamental underpinning of sociology, without which we can't really make sociological predictions. 
+
+

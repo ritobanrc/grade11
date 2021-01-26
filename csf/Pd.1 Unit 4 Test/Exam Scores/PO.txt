@@ -1,0 +1,41 @@
+1)   4/5
+The question asked you to draw out the algebra tiles, not just the area model, so it should look like this: 
+
++------+------+--+--+--+--+--+
+|      |      |  |  |  |  |  |
+| x^2  | x^2  |x |x |x |x |x |
+|      |      |  |  |  |  |  |
++------+------+--+--+--+--+--+
+|  x   |   x  |1 |1 |1 |1 |1 |
++------+------+--+--+--+--+--+
+
+2)   0/3
+The correct answer is C.
+
+3)   5/8
+a. 2 pts
+b. 2 pts
+c. 1 pt. Should be (5m - 4)(m - 2), not (5m + 4)(m + 2)
+d. Can be factored as 3p(5p - 1).
+
+4)   2/5
+You had tan(44) = 98/x, which is correct, but then, you rearranged it incorrectly to x = 98tan(44). What you should have had is x = 98/tan(44) = 101.5.
+
+5)   2/5
+Same as #4. cos(21) = 125/w is correct, but that should rearrange to w = 125/cos(21) = 133.9.
+
+6)   3/3
+7)   3/3
+8)   3/3
+9)   6/6
+10)  5/6
+You have a and c backwards. Remember the a refers to the side opposite angle A, and c refers to the side opposite angle C.
+
+Bonus)   2/4
+a. 1 pt
+b. 1 pt
+c. Make sure to factor completely, you can take a -1 out, making it (4x - 1)^2.
+d. You wrote 1 instead of x, it should be (x + 1/2)(x - 1/2).
+
+Total)   35/47
+

@@ -205,7 +205,7 @@ Now, consider a Gaussian surface completely enclosing the cavity. The net electr
 Therefore, the rest of the charge must come from the outer surface, with a charge of $\SI{+6.0e-6}{\coulomb}$.
 
 ## Question 4 (Resnick-Halliday, Ch. 23, P7)
-In Fig. 23-24, two large, thin metal plates are parallel and close to each other. On their inner faces, the plates have excess surface charge densities of opposite signs and magnitude $\SI{2.31e-22}{\coulomb\per\meter\squared}$. In unit-vector notation, what is the electric field at points (a) to the left of the plates, (b) to the right of them, and (c)
+In Fig. 23-24, two large, thin metal plates are parallel and close to each other. On their inner faces, the plates have excess surface charge densities of opposite signs and magnitude $\SI{2.31e-22}{\coulomb\per\meter\squared}$. In unit-vector notation, what is the electric field at points (a) to the left of the plates, (b) to the right of them, and (c) between them.
 
 ### Solution (a)
 Like the previous one, this one is also a lot simpler that it looks. Because they are infinite plates, the electrical field is constant. Since the charge density of the positive and negative charges is the same, they cancel out on the left, so the electric field is 0. 

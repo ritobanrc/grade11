@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "AP United States History"
+
+[output.html.fold]
+enable = true

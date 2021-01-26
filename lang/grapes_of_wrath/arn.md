@@ -1,0 +1,109 @@
+---
+title: Grapes of Wrath ARNs
+author: Ritoban Roy-Chowdhury
+geometry: margin=1in
+date: \today
+---
+
+# Chapter 2
+
+## What?
+> The hitch-hiker stood up and looked across through the windows. “Could ya give me a lift, mister?”
+>
+> The driver looked quickly back at the restaurant for a second. “Didn’ you see the No Riders sticker on the win’ shield?”
+>
+> “Sure—I seen it. But sometimes a guy’ll be a good guy even if some rich bastard makes him carry a sticker.”
+>
+> The driver, getting slowly into the truck, considered the parts of this answer. If he refused now, not only was he not a good guy, but he was forced to carry a sticker, was not allowed to have company. If he took in the hitch-hiker he was automatically a good guy and also he was not one whom any rich bastard could kick around. He knew he was being trapped, but he couldn’t see a way out. And he wanted to be a good guy. He glanced again at the restaurant. “Scrunch down on the running board till we get around the bend,” he said.
+
+## How?
+* Vernacular
+    - Throughout the book, Steinbeck has all of the characters speak in vernacular, and use this to great effect to differentiate between different groups of people. With subtle differences in the way characters from different parts of the country speak, highlighted with charged words like "Okies".Steinbeck uses vernacular, in some places, to cement the division and animosity between different groups of people, like the migrants and the police, but in other places, the vernacular is used to create a bond between poor characters who find commonality and help each other.
+    - Specifically, in this situation, Steinbeck has both the truck driver and Tom Joad (the hitch-hiker, though we don't find out who he is until the next chapter) both speak casually, without having ever met each other before, and use vernacular, with "Could ya", "Didn'", "win' shield".
+* Word choice: "Rich bastard"
+    - Tom Joad uses the word "rich bastard" to draw attention to the owner that the truck driver works for. Normally, if you were talking to an employee, their boss wouldn't ever enter the conversation, barring perhaps "Can I speak to your manager". But in this situation, Tom is disparaging the owner, and this makes the driver more amenable to his request. This establishes very early on that there is some animosity between the poor workers in this area, and the owners of what they work, the "rich bastards".
+* Periodic sentences
+    - Steinbeck often uses periodic sentences, with multiple clauses that slowly build up to a point, letting the reader follow the thought process of the truck driver in this situation.
+    - The truck driver first "consider[s] the parts of this answer", then methodically contemplates the implications of refusing, first not being a good guy, being "forced to carry a sticker", and "not [being] allowed to have company". 
+
+## Why?
+Altogether, these devices all have a similar effect. They build a sense of familiarity, even solidarity, between Joad and the truck driver, as well as the reader. By having Joad and the truck driver use similar language, Steinbeck immediately demonstrates a commonality between them, building solidarity. 
+
+A consistent theme throughout the book is the recognition that the interests of the owners, the capitalist class, are counter to the workers, the migrants, and people just trying to survive, and consistently, owners do everything in their power to divide the workers and turn them against each other, from letting them fight over too few jobs driving wages down, hiring strikebreakers, breaking up camps where the workers are building solidarity, and overcharging for food to keep them starving and maximizing the amount of money the owners get to keep. So by establishing a commonality between the truck driver and Tom Joad, Steinbeck immediately builds solidarity between them, shows the reader that it is possible to cooperate and not be divided. 
+
+It's in the service of this theme that Tom Joad so effectively calls the driver's boss a "rich bastard". Steinbeck immediately establishes that the owners are "bastards", shows that the driver doesn't like the owners, because they take choice away from him and try to control his life, not even letting him have company while he drives. By bringing up the antagonism toward the owner, Steinbeck furthers his criticism of the capitalist class. He highlights how the owner imposes unreasonable restrictions on his workers, and shows the reader that it is possible to disobey those restrictions, that by rebelling they can make their lives better.
+
+The periodic sentences which methodically show the thought process of the driver have much the same effect. They build palatability between the reader and the unnamed truck driver. Steinbeck immediately dispels the idea that the poor are somehow inferior to the workers or that the rich deserve their place by putting us in the head of the truck driver. We can see that the truck driver is indeed quite reasonable, and also that he's motivated by the basic desire to "be a good guy" and "have company".
+
+
+# Chapter 14
+
+## What?
+> **One** man, **one** family driven from the land; this rusty car _creaking_ along the highway to the west. **I** lost my land, a **single** tractor took my land. **I** am alone and **I** am bewildered. And in the night **one** family camps in a ditch and **another** family pulls in and the tents come out. The **two** men squat on their hams and the **women** and **children** listen. Here is the node, you who hate change and fear revolution. Keep these two squatting men apart; make them hate, fear, suspect each other. Here is the anlage of the thing you fear. This is the zygote. For here “I lost my land” is changed; a **cell is split and from its splitting grows the thing you hate**—“We lost our land.” The danger is here, for two men are not as lonely and perplexed as one. And from this first “we” there grows a still more dangerous thing: “I have a little food” plus “I have none.” If from this problem the sum is “We have a little food,” the thing is on its way, the movement has direction. Only a little multiplication now, and this land, this tractor are ours. The two men squatting in a ditch, the little fire, the sidemeat stewing in a single pot, the silent, stone-eyed women; behind, the children listening with their souls to words their minds do not understand. The night draws down. The baby has a cold. Here, take this blanket. It’s wool. It was my mother’s blanket—take it for the baby. This is the thing to bomb. This is the beginning—from “I” to “we.”
+> If you who own the things people must have could understand this, you might preserve yourself. If you could separate causes from results, if you could know that Paine, Marx, Jefferson, Lenin, were results, not causes, you might survive. But that you cannot know. For the quality of owning freezes you forever into “I,” and cuts you off forever from the “we.”
+ 
+
+## How
+* Perspective
+    - At times, Steinbeck shifts the perspective of the story away from the Joad family to discussing the same ideas in the abstract, often discussing the general experiences of several families, without naming them. Often, these shifts in perspective mirror what the Joads are about to or have just faced, and this allows Steinbeck to explore other possibilities or prime the reader for what's about to come. However, most importantly, these shifts in perspective give Steinbeck an opportunity to expound on his political views, unencumbered by plot and character. 
+* From I to We
+    - The passage begins by discussing the bewilderment and lonliness of "One man", repeating "One", "I", and "Single" over and over again. This repitition feeds into the idea of "we". After all, "we" is just "I" repeated over and over again. This is combined with words like "creaking", "lost", "alone", "bewildered", "camp[ing] in a ditch", all of which have a negative connotation, to establish that one man alone is unable to fend for himself or effect change.
+* Imagery
+    - This passage exists entirely in the abstract, and it would be very easy for Steinbeck to make it read like a textbook. However, he uses imagery to not only let the reader understand his political ideas, but also clearly visualize them. By describing a second family pulling up next to the first, detailing the food they share as "sidemeat stewing in a single pot", helping each other with sharing blankets, "Here, take this blanket. It’s wool.", the political vision that Steinbeck is laying out sounds far more plausible, since the reader has already visualized it.
+* Second person
+    - Immediately after describing the two families, Steinbeck shifts to the second person, directly address "you who own the things". This distinction between owners and workers is at crux of Marxist analysis, and is a common theme throughout the book (remember the "rich bastard" from before?). Steinbeck very succinctly explains why this distinction is so important, "For the quality of owning freezes you forever into 'I,'' and cuts you off forever from the 'we.'", arguing that the premise of ownership is individualism, the idea that you alone deserve something, and that makes the owners unable to build true solidarity.
+
+### Why?
+In this chapter, Steinbeck really simply lays out his political philosophy. The entire book so far has recounted several incidents where the owners have made decisions antithetical to the welfare of their workers -- particularly, the way in which the California farms call for more workers than they need, then let the people fight over the job, giving it to the person who'll work for the lowest wage is uniquely exploitative. Steinbeck argues that if all of these people come together, to use the Marxist terminology, if they gain class conciousness, then they can exact significant change from the owners, or even overthrow the system. 
+
+This idea is reflected in the rhetoric that Steinbeck uses for explaining this -- after all, it's a novel, not a treatise. Steinbeck repeats "One" and "I" at first, painting a picture of suffering as one long family attempts to deal with the world on their own. But then, he demonstrates his theory of solidarity, of people coming together, by introducing a second family, showing how, together, the two families can achieve more than either could alone. 
+
+He makes an allusion to a cell dividing to explain how these two families can slowly grow into a mass movement. Finally, he directly addresses the owners, seemingly on behalf of this mass movement. He says the fundamental mistake that the owners mistake is being unable to differentiate "causes from results", that they need to understand that the works of Jefferson and Lenin and Paine are a product of the material conditions of the time. 
+
+
+# Chapter 22
+
+## What?
+> Thomas looked at his watch. “Well, let’s go out and dig some ditch. By God,” he said, “I’m a-gonna tell you. You fellas live in that government camp, don’t you?”
+> 
+> Timothy stiffened. “Yes, sir.”
+> 
+> “And you have dances every Saturday night?”
+> 
+> Wilkie smiled. “We sure do.”
+> 
+> “Well, look out next Saturday night.”
+> 
+> Suddenly Timothy straightened. He stepped close. “What you mean? I belong to the Central Committee. I got to know.”
+> 
+> Thomas looked apprehensive. “Don’t you ever tell I told.”
+> 
+> “What is it?” Timothy demanded.
+> 
+> “Well, the Association don’t like the government camps. Can’t get a deputy in there. The people make their own laws, I hear, and you can’t arrest a man without a warrant. Now if there was a big fight and maybe shooting—a bunch of deputies could go in and clean out the camp.”
+> 
+> Timothy had changed. His shoulders were straight and his eyes cold. “What you mean?”
+> 
+> “Don’t you ever tell where you heard,” Thomas said uneasily. “There’s going to be a fight in the camp Saturday night. And there’s going to be deputies ready to go in.”
+> 
+> Tom demanded, “Why, for God’s sake? Those folks ain’t bothering nobody.”
+> 
+> “I’ll tell you why,” Thomas said. “Those folks in the camp are getting used to being treated like humans. When they go back to the squatters’ camps they’ll be hard to handle.” He wiped his face again. “Go on out to work now. Jesus, I hope I haven’t talked myself out of my farm. But I like you people.”
+
+## How?
+* (Slightly More) Formal Language
+    - In contrast to when the migrants are talking amongst each other, when they're talking to their employer, they drop many of the characteristics of their vernacular, instead of dropping consonants like "didn'", or shortening "you" to "ya", Thomas, the owner of the small farm where they found work, speaks "correctly", actually saying "Don't" instead of "Don'", "going to be" instead of "gonna", "there's" instead of "they's", and "can't" instead of "can'". Even the worker's vernacular changes slightly, clearly saying "you" instead of "ya", or "bothering" instead of "botherin'".
+* Body language
+    - Steinbeck describes body the body language of the characters to illustrate the tenseness in this scene. Immediately, upon being asked about the government caps, Timothy "stiffen[s]", and then "straighten[s]" and "step[s] close". He "look[s] apprehnsive", "His shoulders [are] straight and his eyes cold". By detailing the body language of the characters, lets the reader really experience the scene for themselves, feel the anxiety, more effectively than if he'd just said "The air tensed".
+    - The same can be seen in Thomas's body language, with him (presumably nervously) looking at his watch, being "apprehensive", speaking "uneasily". Steinbeck shows the reader that Thomas isn't a bad person, that he doesn't have ill will towards these people, but that he too, is stuck in an uncomfortable position and needs to do his best to make his living, forced into a system where he either has to join the "great owners" in oppressing the migrants, or risk losing his farm. 
+* Plausible deniability
+    - Thomas maintains plausible deniability in the way he talks, demonstrating just how uneasy he is, how afraid he is to lose his farm. Instead of saying "the deputies will clean out the camp on Saturday", he says "if there was a big fight and maybe shooting—a bunch of deputies could go in and clean out the camp", and qualifies it with "The Assocation don't like the government camps". By speaking in hypothetic, he seems to reassure himself that he's not going to lose his farm, that he hasn't actually revealed too much. With this subtle suggestions in sentence structure, Steinbeck masterfully makes the reader feel the awkwardness of the situation Thomas is in, even though we've only met him earlier this chapter.
+
+## Why?
+Thomas is a small farm owner, but this interaction illustrates how he too, is subject to the same overwhelming control imposed upon him by the owners of the large farms. Throughout the book, critiques of capitalism are prevalent, with the primary conflict essentially being class conflict -- between the workers, the migrants, like the Joad family, and the owners of the large farms, who do their very best to make life as hard as possible. 
+
+The shift in vernacular illustrates this. Thomas is more wealthy and better educated, solidly of a higher class than his workers, and that's evident in his more "proper" English. While the common vernacular among the migrants builds solidarity and unity, providing a commonality between them, Thomas speaks differently, and this creates gap between him and his workers. He owns a farm, they work for him. If they get lower wages, he gets more profit, and as much as he might try to help them and empathize with them, he can never completely cross that gap and be one of them.
+
+Nonetheless, he does try to help them. He's "apprehensive", and picks his words carefully because he's very worried about the possibility of losing his farm, but he does still try to help them. Steinbeck reveals something particularly important about his critique of capitalism here. Just because someone is an owner does not mean they are evil; instead, Steinbeck would have us recognize that we're all trapped within the same system, a system which pits us against each other, which forces a good-natured farmer like Thomas to hurt his workers to survive. By putting us in Thomas's shoes, making us empathize with him, Steinbeck reveals that we ought to direct our animosity to the system itself, the "great owners" who control "The Association", a system which would take someone's farm for seeking to help a fellow human from being unjustly attacked by the police.
+
+

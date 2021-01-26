@@ -134,7 +134,6 @@
 ### Declaration of War
 * We reach a boiling point -- Madison caves under pressure, declares war 
 * Britain actually decides shortly before the war to remove naval blockade
-
 * **In favor of War**: Pennsylvania, Vermont, South, and West (want to expand territory)
 * **Opposed to War**: New York, New Jersey, rest of New England (stronger ties to England, War hurts trade)
     * DeWitt Clinton (NY, Federalist opposition)

@@ -156,6 +156,8 @@ Grade|
 * Tournaments attended for Varsity Public Forum (as Junior):
     - COVID Season Opener
     - 2020 Jack Howe Memorial Tournament
+    - 2020 La Costa Canyon Classic
+    - 2021 Arizona State University (Advancement to Elimination rounds)
 * Tournaments attended for Varsity Public Forum (as Sophomore):
     - Arizona State HDSHC Invitational
     - Chuck Ballingall Memorial Invitational at Damien High School
@@ -173,4 +175,9 @@ Grade|
 
 ## TryEngineering Summer Camp
 * I attended the TryEngineering Summer Camp at UCR, offered by the IEEE (Institute of Electrical and Electronics Engineers). Here, we were exposed to a series of different engineering problems, from several different disciplines of engineering.
+
+## Leadership
+* Superintendent Advisory Council
+* President of STEMDev
+* President of YDSA
 

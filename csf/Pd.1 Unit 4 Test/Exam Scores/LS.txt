@@ -1,0 +1,35 @@
+1)   3/5
+Factored corretly, but the area model should look like this: 
+
++------+------+--+--+--+--+--+
+|      |      |  |  |  |  |  |
+| x^2  | x^2  |x |x |x |x |x |
+|      |      |  |  |  |  |  |
++------+------+--+--+--+--+--+
+|  x   |   x  |1 |1 |1 |1 |1 |
++------+------+--+--+--+--+--+
+
+x's should be long and thin, and should be lined up with the x^2s. 
+
+
+2)   3/3
+3)   8/8
+For (d), make sure you use the variable given in the problem. If the problem says p, don't use x in your answer. 
+
+4)   4/5
+Your work isn't quite right, it should be tan(44) = 98/x, not x/98.
+
+5)   4/5
+Your work isn't quite right, it should be cos(21) = 125/w. tan(21) does not equal 125/w. Again, make sure to use the variable given in the problem, w, not x. 
+
+6)   3/3
+7)   3/3
+8)   3/3
+9)   6/6
+10)  6/6
+
+Bonus)   4/4
+Well done!
+
+Total)   47/47
+

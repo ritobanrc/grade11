@@ -1,0 +1,39 @@
+1)   1/5
+The question asks you to write the quadratic as a product, and the algebra tiles should be layed out like this: 
+
+The sides of your algebra tiles rectangle should correspond to the product, and the areas of each tile should correspond to the value being represented. This is what it should look like 
++------+------+--+--+--+--+--+
+|      |      |  |  |  |  |  |
+| x^2  | x^2  |x |x |x |x |x |
+|      |      |  |  |  |  |  |
++------+------+--+--+--+--+--+
+|  x   |   x  |1 |1 |1 |1 |1 |
++------+------+--+--+--+--+--+
+
+2)   3/3
+3)   1/8
+The answers should be 
+a. (2x-3)(x-4)
+b. Not Factorable
+c. (m-2)(5m-4)
+d. 3p(5p-1)
+
+4)   5/5
+Make sure not to round in intermediate steps. I still gave you the point, but it should be 101.5, not 101.0.
+
+5)   5/5
+Same as #4, it should be 133.9, not 134.4.
+
+6)   3/3
+7)   3/3
+8)   3/3
+9)   6/6
+Same as #4, it should be 7.21, not 7.14. Also, please try to organize your work better, or box the final answer so I don't have to hunt for it. I didn't even notice which work was problem 9 and which work was problem 10 for several minutes.
+
+10)   3/6
+What are your final answers for a and c?
+
+Bonus)   0/4
+
+Total)   33/47
+
