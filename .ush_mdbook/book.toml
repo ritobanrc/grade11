@@ -7,3 +7,7 @@ title = "AP United States History"
 
 [output.html.fold]
 enable = true
+
+
+[output.html]
+curly-quotes = true

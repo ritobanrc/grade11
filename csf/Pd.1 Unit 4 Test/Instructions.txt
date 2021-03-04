@@ -1,3 +1,0 @@
-I would copy the top portion of the exam score file so you have a framework for each exam and create a text file for each student'sw score.
-
-Place all of the graded text files in the same folder (exam scores) titled with the initials. Provide a small comment when students missed points so they know what they missed in the problem. There's a sample in the exam score folder.

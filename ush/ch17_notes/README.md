@@ -151,6 +151,7 @@
     - Carnegie's Homestead steel plant cut wages 205
     - Lockout, private guards, strike breakers, fail after 5 months
 * **Pullman strike**
+    - Grover Cleveland crushes Pullman strike (1894)
     - Company town, cuts wages, fires workers delegation
     - Eugene Debs based
 

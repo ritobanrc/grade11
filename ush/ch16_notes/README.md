@@ -100,3 +100,29 @@
 * **Assimilationists**: Reformers advocated formal education, job training, convert to Christianity
 * **Dawes Severalty Act**: Break up tribal organizations into 160 acre plots
 
+### Changes in the 20th century
+* 1924 -- US citizenship to all Native Americans
+* 1934 -- New Deal, Indian reorganization act
+
+## The Latino Southwest
+* Mexican-American War → Spanish-speaking landowners guaranteed land and citizenship
+    - Land often taken through eminent domain
+* 
+## Conservation Movement
+* John Muir
+* Conservation v. Preservationists
+
+## The South
+
+### Economic Progress
+* Richmod, VA -- Tobacco
+* Georgia, NC/SC -- chief producers of textiles
+* Railroad gauge matched to national
+* Cotton is still King
+
+### Poverty
+* Northerners control 3/4 of railroads, nearly all of steel industry
+* Average _white_ southern worker earned half the wage
+* Northerners got there first, and south uneducated
+
+

@@ -46,6 +46,8 @@
 - [Thanksgiving](./thanksgiving/README.md)
     - [Charlie Brown Notes](./thanksgiving/charlie_brown.md)
 - [Danger of a Single Story](./single_story.md)
+- [The Tortilla Curtain](./the_tortilla_curtain/README.md)
+    - [ARN/DIDLS](./the_tortilla_curtain/arn_didls.md)
 - [Words To Own](./words_to_own.md)
 - [Thought for the Day](./daily/README.md)
     - [Still I Rise](./daily/still_i_rise.md)
