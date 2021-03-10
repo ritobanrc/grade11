@@ -117,6 +117,12 @@ Grade|
     - Circuit Lab
     - Geologic Mapping
     - Machines
+* 11th grade
+    - Chemistry Lab -- 2nd place @ regionals
+    - Circuit Lab   -- 2nd place @ regionals
+    - Cybersecurity -- 2nd place @ regionals
+    - Algorithms & Heuristics -- 1st place @ regionals
+    - Protein Modelling  -- 4th place @ regionals
 
 ## Math
 

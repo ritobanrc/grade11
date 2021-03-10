@@ -1,4 +1,4 @@
-# Ch 21. Progressive Era
+# Ch 21. The Progressive Era
 * 1901 - 1917
 * Theodore Roosevelt, Taft, Wilson
 * 1917 -- Russian Revolution, World War I
@@ -39,3 +39,27 @@
     - We want this in America!
 * Curb trusts, oppose big businesses, anti-monopolization
 * More popular democracy, "honest government" independent of political machines/big business
+
+
+### Pragmatism
+* James & Dewey -- "good" and "true" are not abstract, fixed
+    - instead, practical approach to morals, ideals, knowledge
+    - experiment, see what works in society
+
+### Scientific Management System
+* Maximize _efficiency_
+* Frederick Taylor -- stopwatch to time output of factory workers
+* Government could be made more efficient w/ expertise, rather than political machines
+
+### Progressive Goals
+* Direct Primary Elections
+    - **Millionaire's Club**: Bought and paid legislatures
+    - 17th Amendment → Direct election of senators
+* Australian (Secret Ballot)
+* Referendums, Public Initiative, Recall power
+* **Women's Suffrage**: Not until 1920
+
+* **The Triangle Shirt Factory Fire**
+    - 146 workers die in a big fire
+* **The Temperance Movement**
+
