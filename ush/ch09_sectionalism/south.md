@@ -43,7 +43,7 @@
     - Work slowdowns, sabotage, escape, revolt
     - Uprisings
         - **Denmark Vesey** (1822)
-        - **Nat Turnet** (1831)
+        - **Nat Turner** (1831)
         - Quickly surpressed, btu gave hope 
 
 ### Free African Americans

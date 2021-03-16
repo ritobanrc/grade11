@@ -107,7 +107,7 @@
     - Created Bureau of Indian affairs
 * Many states also created similar policies
     - Georgia force Cherokee's to move west, SCOTUS rules Cherokee's don't have the right to sue 
-    - The, Worcester v. Georgia, Georgian laws could not be enforced in Cherokee territory
+    - Worcester v. Georgia, Georgian laws could not be enforced in Cherokee territory
         * Jackson responds, "John Marshall has made his decision, now let him enforce it"
 * Cherokee's don't accept land compromise
     - US Army forces 15k to leave George, _after_ Jackson leaves
