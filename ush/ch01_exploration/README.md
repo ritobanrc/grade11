@@ -48,7 +48,7 @@
     - Corn and grain farming in permanent settlements
 * **East**
     - Woodland, most food availablility
-    - Farming, hunting, fathering, fishing
+    - Farming, hunting, gathering, fishing
 * **Southeast**
     - Trade networks, corn, Mississippi River
     - _Cahokia_: Trading center near St. Louis
@@ -62,7 +62,97 @@
     - Women care for children, prepare meals (_really_??? I don't buy this)
     - Some have men farm, men only in war
 
-## Europe Looks Westward
+## The First Americans
+* This section is from Eric Foner's _Give Me Liberty_, Ch. 1
+
+### The Settling of the Americas
+* **Arrival of the First Americans**
+    - Most crossed Bering Strait during Ice Age, 15kya - 60kya
+    - Some on boats, arrive in South America
+* **Early Native American History**
+    - Reach tip of South America 11kya
+    - Food shortage (large animals extinct) → Settling down, agriculture 9kya
+    - Maize, Squash, Beans primary crops
+    - Lack of livestocks prevents fertilizer
+
+### Indian Societies of the Americas
+* **Aztecs and Incas**
+    - See above
+* **North American Indian Societies**
+    - Not as large as Europeans 
+    - Lack writing, wheels (no livestock to pull things), metal, machines, gunpowder
+    - Instead, systems of religion, organization, trade, communication
+    - Used to justify conquest of "savages"
+
+### Mound Builders of the Mississippi River Valley
+* **Poverty Point**
+    - 3.5 kya, large mounds built in Mississippi River Valley
+    - Commercial & governmental center
+    - Developed Trading re, resources from across the Americas
+* **Cahokia**
+    - City, 100k-300k people (largest city until 1800)
+    - Trading point
+    - Giant mounds, over 100 ft high
+
+### Western Indians
+* **Hopi and Zuni People**
+    - Largest during 900-1200 
+    - Planned towns w/ multi-family houses
+    - Dams and Canals for water
+    - _Pueblo Bonita_: Largest was a 5 story building w/ 600+ people
+* **Pueblo Indians**
+    - Decline of Hopi/Zuni → People migrate elsewhere 
+    - Develop irrigation systems for farming beans, squash, corn
+    - Spanish call them _pueblos_, "small village"
+* **Pacific Coast & Great Plains**
+    - Hundreds of groups
+    - Pacific Coast: Hunting Sea Mammals, Fishing (esp. Salmon), Gathering Nuts & Berries
+    - Great Plains: Many Nomadic, follow bison; some agricultural
+
+### Indians of Eastern North America
+* **Eastern Tribes**
+    - Hundreds of Tribes, in Towns and Villages
+    - Corn, Squash, Beans; Hunted Deer, Turkey, etc.
+    - Very Warlike, until...
+    - 1400s, organized into a couple of big groups
+        * Iroquois Confederacy, Great League of Peace: Mohawk, Oneida, Cayuga, Seneca, Onondaga
+        * Choctaw, Cherokee, Chickasaw alliances
+* **Diversity**
+    - Hundreds of groups had different sets of beliefs, different religions, different languages
+    - No unified idea of "America"
+    - So the response to Europeans wasn't unified either
+
+### Native American Religion
+* **Religious Commonalities**
+    - Tied to Farming/Hunting
+    - Spirits present in everything, incl. animals and plants
+    - Religious rituals for crops or against evil 
+    - Religious leaders respected
+* No clear line between natural and supernatural
+* Most except 1 Creator
+
+### Land and Property
+* **Common Ownership of Land**
+    - Land controlled by everyone, granted to specific families for use 
+    - No idea of "private property"
+* **Status**
+    - No point in gaining wealth
+    - Some element of status, esp. for leaders -- but often based on generosity
+* **Lack of Inquality**
+    - Generosity valued
+    - Trade existed, but focussed on gift giving, mutual obligation
+    - No massive inequalities present
+    - Some Exceptions: Natchez have a "Great Sun" with "lesser suns" 
+
+### Gender Relations
+* Men (usually) tribal leaders
+* Society is matrilineal
+* Premarital sex encouraged
+* Female elders often had significant influence
+* Women owned houses, tools -- men had to move
+
+
+##  Europe Looks Westward
 * Europe largely doesn't know America
 * Leif Eriksson (11th cen. Norse) visited Boston
 
@@ -211,3 +301,4 @@
 * **Two new groups**
     - London group colonize Virginia
     - Plymouth Group coolonizes northern area
+

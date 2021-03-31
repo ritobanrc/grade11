@@ -32,7 +32,7 @@
     - Many left for Holland -- but too  much religious freedom, tolerance
     - Then come to America
 * 1620 -- 100 passengers come to Virginia on _Mayflower_
-    - **Mayflower compact**: Agreement to live good Christian life
+    - **Mayflower compact**: Agreement to make decisions based on will of majority
 
 ### Early Days
 * 65 days at sea, arrive in Massachusetts bay in winter.

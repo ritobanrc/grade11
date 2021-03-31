@@ -16,8 +16,6 @@
 * English idea of **representative government**
     - Everyone is assumed to have some rights incl. The right to representation.
 
-
-
 ## The Chesapeake Colonies
 * 1632 -- Virginia split into Maryland
 
