@@ -212,10 +212,9 @@
     - America doesn't join the League of Nations
     - Increases Tariffs on imports 
     - Diplomats seek to expand American export markets
-    - _Washington Arms Naval Conference_: Negotiates smaller navies for Britain, France, Japan, Italy, and US
 * **Privatized Foreign Policy**
     - American bankers given loans to British and French during the war
-    - More loans to Germany to pay for reparations, and other European + Latin American govts. -- called the _Dawes Plan_, led by Charles Dawes, Coolide's VP
+    - More loans to Germany to pay for reparations, and other European + Latin American govts.
     - American companies build industrial manufacturing overseas (cheap labor)
     - Control over raw materials in Chile, Venezuela
     - _Red Line Agreement_: Britain, France, America divide up Middle East and Latin American Oil
@@ -225,7 +224,23 @@
     - Marines create a national guard, finally leave 1933
     - Somoza overthrown 1978 by Sandanistas
 
-* What can we expect from a return normalcy
+### Exceptions to Isolationism
+* **Washington Naval Conference**
+    - Exception to non-interventionism, Harding invites a bunch of countries to Washington to negotiate
+    - Negotiates Three Treaties:
+        - Five Power Treaty: Negotiates smaller navies for Britain, France, Japan, Italy, and US
+        - Four Power Treaty: Britain, France, US, Japan respect Pacific territory
+        - Nine Power Treaty: All 9 countries respect China's open door policy
+* **Kellog-Briand Pact**
+    - Feminist Anti-war activists success
+    - Frank Kellog (Sec. of State) + Briand (French Foreign Minister) negotiate a treaty, signed onto by nearly all countries
+    - Renounce aggressive use of force (but still allow defensive)
+    - Ineffective
+* **War Debts and the Dawes Plan**
+    - Britain/France owe US $10bn in debt (after the war)
+    - Germany owes Britain/France $30bn  (absolutely ridiculous)
+    - _Dawes Plan_: Cycle of money to pay war debts -- US loans to Germany to rebuild economy, Germany pays Britain/France reparations, Britain/France pay back loans to US
+    - Collapses during the Depression, only Finland manages to pay war debts
 
 ## The Birth of Civil Liberties
 * Wartime repression of civil liberties → Progressives more skeptical of government power
@@ -244,7 +259,7 @@
     - Hollywood adopts a Code of Conduct, prohibits, long kissing, nudity, adultery, negative portrayals of clergy, etc.
 * **European Disillusionment**
     - D.H. Lawrence suggests America is promoting uniformity 
-    - Many writers leave to Paris and other European cities, incl. Hemingway, Fitzgerald, and Stein
+    - Many writers leave to Paris and other European cities, incl. Hemingway, Fitzgerald, and Stein ("Lost Generation")
 
 ### A "Clear and Present Danger"
 * **Creation of the ACLU**
