@@ -238,7 +238,7 @@ As the United States economy grew, it's people developed labor unions and (some)
 
 ## Woodrow Wilson and Moral Diplomacy
 * "Moral" approach to foreign policy, _New Freedom_
-* Sec. of State William Jennings Brian
+* Sec. of State William Jennings Bryan
 
 ### Moral Diplomacy
 * Spread democracy, respect sovereignty

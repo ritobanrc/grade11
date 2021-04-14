@@ -117,7 +117,7 @@
     - Colonized people given "equal weight" to colonizers in deciding futures
     - "General association of nations" -- League of Nations, regulate countries to preserve democracy
 * **End of the War**
-    - America turns the tide, w/ only 100k dead
+    - America turns the tide with "American Expeditionary Force", w/ only 100k dead
     - By Spring, push Germans out of Paris
     - By Summer, large counteroffensive
     - By Autumn, 1 mn soldiers push back Germans
@@ -503,8 +503,17 @@
     - Republic of Ireland created, but British keep Northern Ireland
 
 ### The Treaty Debate
-* Fears over League of Nations superseding Congress' war power 
-* Wilson's declining health
-* Congress rejects Treaty of Versailles in 1920
-* **William G. Harding** wins overwhelmingly in 1920
-    - Rejection of Wilsonianism, Progressivism 
+* **Views of the Treaty**
+    - Wilson sees it as his legacy
+    - Argues America needs to be involved in the world
+    - _Henry Cabot Lodge_ wants American freedom
+* **Rejection of the Treaty**
+    - Many republicans call for **"Lodge reservations"**
+    - Wilson dogmatically refuses to compromise
+    - Falls very ill, wife virtually runs government
+    - Senate rejects treaty
+* **Aftermath**
+    - WWI casts a shadow over 20s (Germany's economy crippled, growth of existentialism and nihilism)
+    - Wilsonian democracy very influential ("actively spread democracy")
+    - **William G. Harding** wins overwhelmingly in 1920
+    - Rejection of Wilsonianism, Progressivism, and the 20s are extremely conservative

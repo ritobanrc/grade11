@@ -2,7 +2,7 @@
 
 ## Origins of Progressivism
 * **The Populists**
-    - William Jennings Brian and his people
+    - William Jennings Bryan and his people
     - Largely low-income workers, women
     - People disillusioned with Republicans and Dems (lots of political corruption during Grant's presidency)
     - Didn't gain popularity -- in the South, there was a movement to unify poor blacks 

@@ -1,4 +1,7 @@
 # Ch 23. The New Era: The 20s
+* How religion and science were a source of conflict in American society during th United Sates?
+    - The growth of fundamentalism, reaction to the sexual freedom, lasciviousness in the cities.
+
 * Notes taken from Eric Foner's _Give Me Liberty_ Chapter 20
 * **Sacco and Vanzetti's Crime**
     - _Nicholas Sacco_: Unskilled laborer
@@ -57,6 +60,7 @@
 ### A New Society
 * **Consumer Goods**
     - Heavily advertised and marketed
+    - Growth of monthly payments
     - Vacuum cleaners, Washing machines, Dishwashers, Refrigerators and other appliances
     - Telephones, telegraphs, improve communication
     - Prohibition → Growth of Coca Cola
@@ -139,9 +143,10 @@
     - Features: Bobbed hair, short skirts, smoking, lascivious, dance halls/music clubs (think Jordan Baker)
 * **The Perspective of Advertisements**
     - Used to market goods, esp. cigarettes
-    - Cigarettes: now "torches of freedom", previous feminist movements had opposed them
+    - Cigarettes: now advertised "torches of freedom", previous feminist movements had opposed them
     - Marriage: Promoted as "end goal", focus of a woman's life
         * "Liberated" by applicanes
+    - Ford Model T for the men, but the smaller easier to handle Coup for women
 
 ## Business and Government
 
@@ -149,7 +154,7 @@
 * **Disintegration of Progressivism**
     - Mass Hysteria during War, IQ Tests, Freudian Psychoanalysis, destroy idea of "rational citizen"
     - Skepticism of democracy grows, progressivism declines
-    - Advertisments target emotions rather than rationality
+    - Advertisements target emotions rather than rationality
 * **Walter Lippman & Manufacturing Consent**
     - _Public Opinion_ and _The Phantom Public_
     - Voters are ill-informed, capricious, largely controlled by government and corporate influences
@@ -163,24 +168,30 @@
 ### The Republican Era
 * **Republican Support of Business**
     - Presidents _Warren G. Harding_ & _Calvin Coolidge_
+        * Harding wins in a landslide
+        * Argue for a "return to normalcy", laissez-faire capitalism
     - Government and business fused together
     - Pro-business lobbyists appointed to FTC, Federal Reserve, virtually repealed regulatory system
     - Resume Court injunctions against strikes
 * **The Supreme Court**
-    - Taft joins the court
+    - Harding appoints Taft to the court
     - Laissez-faire economic decisions, based on "liberty to contract"
     - Strikes down anti-child labor law, minimum wage for women (repudiates Muller v. Oregon based on women's suffrage)
 
 ### Corruption in Government
-* **Warren G. Harding's Presidency**
-    - Portrays himself as a quiet, small town person
+* **Corruption in Harding's Presidency**
+    - Portrays himself as a quiet, small town person, "return to normalcy"
     - Continues drinking despite Prohibition
     - Has an affair
 * **Harding's Cronyism**
     - Herbert Hoover (Commerce) and Evans Hughes (State) respectable
     - Harry Daugherty (AG) accepts bribes not to prosecute
     - Charles Forbes (Veterans Bureau) receives kickbacks from government suppliers
-    - Albert Fall (Interior) receives $500k from businessmen for govt. oil reserves. Convicted
+    - _Teapot Dome Scandal_: Albert Fall (Interior) receives $500k from businessmen for govt. oil reserves. Convicted
+* **Harding's Policies**
+    - Reduction of Income tax
+    - Increase tariff rate (Fordney-McCumber Act)
+    - Pardon of Eugene Debs
 
 ### The Election of 1924
 * **Calvin Coolidge's Victory**
@@ -204,7 +215,7 @@
     - _Washington Arms Naval Conference_: Negotiates smaller navies for Britain, France, Japan, Italy, and US
 * **Privatized Foreign Policy**
     - American bankers given loans to British and French during the war
-    - More loans to Germany to pay for reparations, and other European + Latin American govts.
+    - More loans to Germany to pay for reparations, and other European + Latin American govts. -- called the _Dawes Plan_, led by Charles Dawes, Coolide's VP
     - American companies build industrial manufacturing overseas (cheap labor)
     - Control over raw materials in Chile, Venezuela
     - _Red Line Agreement_: Britain, France, America divide up Middle East and Latin American Oil
@@ -213,6 +224,8 @@
     - Troops come back home in 1925, then go back to suppress another revolt
     - Marines create a national guard, finally leave 1933
     - Somoza overthrown 1978 by Sandanistas
+
+* What can we expect from a return normalcy
 
 ## The Birth of Civil Liberties
 * Wartime repression of civil liberties → Progressives more skeptical of government power
@@ -243,4 +256,167 @@
     - Justice Oliver Wendell writes opinion, "fire in a crowded building"
 * **Impacts**
     - Lets public officials determine what danger is
+
+### The Court and Civil Liberties
+* **Holmes and Brandeis Dissent**
+    - Following Schenk, Brandeis and Holmes take a more hard-line position on free speech
+    - Majority of court still opposes
+    - Examples: 
+        * Abrams v. US, distributing pamphlets criticizing Russian intervention
+        * Gitlow v. New York, _Left Wing Manifesto_ calls for revolution, charged with "criminal anarchy"
+    - Holmes argues for "marketplace of ideas"
+* **New Regard for Free Speech**
+    - Supreme Court makes a series of mor epro-free speech decisions
+    - Strike down Kansas law against advocating illegal acts to change political/economic system
+    - Strike down Minnesota law against press censorship
+    - Strike down conviction for distributing sex ed pamphlet (Mary Ware Dennet, _The Sex Side of Life_)
+    - Strike down customs ban on James Joyce's _Ulysses_
+* **Whitney v. California and Brandeis's Philosophy**
+    - Anita Whitney: Communist Party member, Women's Rights Advocate
+    - Convicted for being a communist party member, "criminal syndicalism"
+    - SC upholds conviction, but Brandeis's concurrence very influential → Governor pardons her 
+    - Charged again for showing red flag, SC strikes it down
+    - Birth of Civil Liberties
+
+## The Culture Wars
+
+### The Fundamentalist Revolt
+* **Causes of Fundamentalism**
+    - Reaction to sexual freedom, new urbanism
+    - Reaction to immigration, growth of Catholicism and Judaism
+    - Reaction to Protestant "modernists" (who accept science)
+* **Fundamentalist Ideas**
+    - Christianity & Science incompatible
+    - Seek to Eliminate Modernism
+    - _Billy Sunday_: Most prominent fundamentalist/revivalist pastor, former baseball player
+    - _Harry Emerson Fosdick_: Another prominent pastor
+* **Portrayal of Fundamentalism**
+    - Seen as backwards, bigoted movements
+    - Fundamentalists support Prohibition, very effective
+* **Illegal Sale of Liquor**
+    - Many see Prohbition as too restrictve
+    - _Speakesies_: Illegal liquor selling establishment
+    - _Bootleggers_: People who bought the illegal liquor 
+    - Regular bribes of policemen and public officials
+    - Associates Urban life w/ immorality
+
+### The Scopes Trial
+* **Premise of the Trial**
+    - _John Scopes_: teacher who taught evolution (at the ACLU's request)
+    - Violate Tennessee law (prohibts teaching evolution)
+    - Live on national radio
+* **Politics behind the Trial**
+    - _Fundamentalist Christians_ oppose evolution, see it as a moral failing, associated w/ socialists, feminists, etc. 
+    - Opposed to _Modernists_: Embrace science, evolution, defend Scopes
+    - For the ACLU, about right to independent thought
+* **The Trial**
+    - _Clarence Darrow_ defends Scopes, _William Jennings Bryan_ prosecutes
+    - Darrow calls Bryan to the stand as "expert witness" on the Bible
+    - Darrow Sarcastically impugns the Bible
+* **Aftermath of the Trial**
+    - Jury finds Scopes guilty, SC of Tenessee overturns on technicality
+    - Bryan dies, Fundamentalism falls apart and becomes less relevant nationally
+    - Fundamentalists focus on local change, reemerge late 20th century
+
+### The Second Klan
+* **Continuing Americanization**
+    - Americanization programs continue 
+    - Citizenship education, Visits to Immigrant Houses
+    - Oregon mandates public schooling to combat socialism
+* **Resurgence of the Klan**
+    - Following lynching of _Leo Frank_ (Jewish factory manager), Ku Klux Klan resurges
+    - 3m members, grows to be one of the largest and most influential organization
+    - Virtually controls State republican parties, even outside of the South
+    - Broader targets -- socialists, feminists, Jews, unions, etc.
+
+### Closing the Golden Door
+* **New Citizenship Laws**
+    - Klan fades after leader convicted on assault charges
+    - New Laws let women remain American citizens after marriage to non-Asian foreigners
+    - Citizenship extended to Native Americans (but often still can't vote)
+* **New Immigration Laws**
+    - Previously, 
+        * Black/Asian people not allowed to naturalize
+        * Nearly all white immigrants naturalized
+    - Increasing Pressure for Immigration Restrictions caused by:
+        * Fears of Radicalism among immigrations
+        * Automation → Less demand for unskilled labor
+        * Great Migration → Greater supply of unskilled labor 
+* **Immigration Quotas**
+    - Congress passes immigration quotas (~350k (1/3x), then ~150k in 1924)
+    - Severe restrictions on Southern/Eastern europeans
+    - Exception for Mexicans (needed for labor)
+* **Asian Immigration** (or lack thereof)
+    - 1924 Law Bars immigration for "those ineligible for naturalization"
+    - Completely bars all Asians, except Filipinos (50 allowed + unlimited plantation workers in Hawaii)
+    - Timeline for Philippine independence established
+* **Creation of Border Patrol**
+    - Invents idea of "illegal alien"
+    - Mostly associated with Southern/Eastern Europeans
+    - _Border Patrol_ created to enforce immigration laws
+
+### Race and the Law
+* **Stagnation on Racial Issues**
+    - Black people decidedly second-class citizens everywhere
+    - Harding, Republican party oppose "equality"
+* **Hints of Eugenics**
+    - Coolidge says "America must be kept American"
+    - Immigration based on "scientific" determiners of race
+* **Scientific Bases of Discrimination**
+    - Spurious science based on immigration numbers
+    - Increases quota of Irish immigrants
+    - Supreme Court rejects _Bhagat Singh Thind_ case
+        * Indian-born, claims to be "pure Aryan"
+        * SC says "White" should be interpreted as used in "common speech", denies Thind naturalization
+
+### Pluralism and Liberty
+* **Resistance to Homogeneity**
+    - _Horace Kallen_, coins **"cultural pluralism"**: that America can have multiple distinct and heterogeneous cultures
+    - Anthropologists argue no scientific basis for racial classification
+* **Limited Impact and Immigrant Enclaves**
+    - Little impact on public policy
+    - Immigrants form enclaves in inner city with independent local shops, services, etc.
+    - Immigrants don't put up a united front against Americanization
+    - Some immigrant women see consumerism as freedom from patriarchy
+
+### Promoting Tolerance
+* **Catholic Resistance**
+    - Immigrants seek distinct cultural identity
+    - Catholic church maintains separate institutions, but encourages adoption of "American principles"
+    - _Catholic Holy Name Society_, 100k people march on Washington to oppose the Klan, pro-immigrant policies
+    - Other Catholic orgs also support (Anti-Defamation League, National Catholic Welfare Council),
+* **Successes**
+    - SC overturns Oregon's private school requirement
+    - SC overturns Nebraska prohibition on German language, _Meyers v. Nebraska_
+    - Federal courts overturn taxes on Japanese schools in Hawaii
+    - Foundations for the "right to privacy"
+
+### The Emergence of Harlem
+* **Growth of Harlem**
+    - Great Migration continues, 1m Black people migrate North
+    - Mostly travel to cities, incl. New York's _Harlem_
+    - Many immigrants from _West Indies_ -- more wealthy than African-Americans, many professional class
+* **White "Slumming" vs. Reality** 
+    - _Slumming_: White people travel to Harlem to experience the exoticism (dances, jazz, bars)
+        * Harlem perceived as a lascivious, primitive, place for freedom
+    - In reality, Black people forced into Harlem because of
+        * Housing discrimination
+        * Exorbitant rents
+    - Businesses _owned_ by white people, many refused to employ/serve Black folk
+    - 20's Prosperity not shared by black people
+
+### The Harlem Renaissance
+* **Black Culture in Harlem**
+    - Black culture flourished in Harlem
+    - Poets, novelists, theater, music
+    - Langston Hughes (novelist), Countee Cullun (poet), Claude McKay (novelist), William Grant Still (jazz musician), Paul Robeson
+* **"The New Negro" in Art**
+    - Seen as a "search for Black values", the roots of Black culture (urban ghettos, slavery, Africa)
+    - Strong theme of protest against racial injustice 
+    - Later McKay's "Pressed to the wall, dying, but fighting back!" cited by Churchhill
+* **Ossian Sweet**
+    - Black physician, moves to a white neighborhood in Detroit
+    - Defended by Clarence Darrow, hung jury on the first case, his brother acquitted
+
+
 

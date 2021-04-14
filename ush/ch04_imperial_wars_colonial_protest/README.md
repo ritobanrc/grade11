@@ -146,7 +146,7 @@ Colonists must provide for British soldiers in colonies
 ### The _Gaspee_
 * Colonists, disguised as Indians, set fire to a British ship that caught some smugglers
 
-### Boton Tea Party
+### Boston Tea Party
 * **Tea Act**: Lowered price of British tea less han Dutch tea
 * Boston colonists, disguised as Indians, dump 342 chests into harbor
 
@@ -154,7 +154,7 @@ Colonists must provide for British soldiers in colonies
 * Punishment for Boston Tea Party
 
 ### The Coercive Acts
-* Port Act (closed port of bosotn)
+* Port Act (closed port of Boston)
 * Mass. Govt. Act -- reduce power of colonial legislature, inc. power of royal gov. 
 * Administration of Justice act -- royal officials tried in England, not colonies
 * Expansion of Quartering Act
