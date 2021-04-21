@@ -93,6 +93,7 @@
         - Not invited to parties
     - Jackson tried to force them to invite her, most of them resigned
     - Calhoun resigns a year later, Van Buren is next president
+
 ### Indian Removal Act
 * _Trail of Tears_
 * Focussed on westward expansion

@@ -19,6 +19,7 @@
     - [Unit 3 Study Guide](./ch06_constitution/study_guide.md)
 - [Ch 7. The Age of Jefferson](./ch07_jefferson/README.md)
     - [Interpretation: Causes of the War of 1812](./ch07_jefferson/war_of_1812_interp.md)
+    - [Pd. 3 Studying](./ch07_jefferson/pd3_study.md)
 - [Ch 8. Nationalism and Economic Development](./ch08_nationalism/README.md)
     - [Era of Good Feelings](./ch08_nationalism/era_good_feelings.md)
     - [The Marshall Supreme Court](./ch08_nationalism/marshall_court.md)
@@ -52,3 +53,4 @@
     - [Progressivism Summary](./ch21_progressive_era/progressivism.md)
 - [Ch 22. World War I](./ch22_world_war_1/README.md)
 - [Ch 23. The New Era: The 20s](./ch23_twenties/README.md)
+- [Ch 24. The Great Depression](./ch24_great_depression/README.md)
