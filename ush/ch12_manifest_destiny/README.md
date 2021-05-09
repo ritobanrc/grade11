@@ -115,9 +115,60 @@
 * Alaska purchased after Civil War
 
 ## Settlement of the Western Territories
+* Acquisition of Oregon + California → Settlers expand west over "Great American Desert"
 
-## Conclusion
-One of the most interesting events that led to the Civil War was the case of Dred Scott v. Sandford. In this case, a slave Dred Scott, was taken into the Wisconsin territory by his master, and then returned to the slave state of Missouri. Dred Scott sued, first in state court, then in federal court, arguing that since he had been taken into a free state, he had been freed. However, when the case arrived at SCOTUS, instead of merely ruling on the case at hand, Justice Robert Taney ruled that (a) African Americans were not citizens protected by the US constitution, (b) that Congress doesn't have the authority to rule about slaves under the property clause, and (c) substantive due process must be respected -- the federal government cannot free the slaves without going through due process first. I think this ruling reveals several interesting things about the judicial philosophy used to approach it. As Justice Curtis's dissent points out, 5/13 states at the time of ratification allowed African Americans to vote, so (a) is just factually untrue. This reveals the underlying assumption with originalist interpretations of the Constitution, that past society was inherently more regressive, and that it can be used to enforce regressive and reactionary policies. Interesting, Justice Scalia compares the decision in Roe v. Wade to the Dred Scott decision, suggesting that their use of substantive due process is similar. I find it particularly interesting that the due process aspect is the part that Scalia chooses to focus on, instead of recognizing that one ruling expands the freedom of people, while the other vastly restricts it.
+### Fur Trader's Frontier
+* "Mountain Men", earlier nonnative group, including _James Beckwouth_, _Jim Bridger_, _Kit Carson_, and _Jedediah Smith_
+* Trade w/ Native Americans, for Animal Skins
+* Provide early information
+
+### Overland Trails
+* Next group, seeking Oregon/California Directly
+* Following Oregon, California, Santa Fe, Mormon trails, from Missouri or Iowa through river valleys, through the Rockies, through the Sierras
+* Generally 15 miles/day
+* Extreme threat of disease, depression
+
+### Mining Frontier
+* Gold rush to California, 1848-1850
+* Similar gold/silver rushes to Colorado, Nevada, Dakotas, etc.
+* Many small mining towns, camps follow discoveries 
+* California population explodes, 14k to 380k
+    - 1/3 of miners Chinese
+
+### Farming Frontier
+* _Preemption Acts_ (1830s, 1840s): Gives squatters rights to settlers, lets them purchase from govt. for cheap, as small as 40 acres
+* Move west cost money ($200-$300), largely middle class
+* Difficult trek, people created rural institutions (schools, churches, etc.)
+
+### Urban Frontier
+* Railroads, Gold, Silver, Farming attracts professional 
+* Cities (SF, Denver) created by gold rush
+
+## The Expanding Economy
+
+### Industrial Technology
+* Previously, factories in New England (textiles)
+* 1840, spread to rest of Northeast w/ shoes, clothing, firearms, tools, railroads, etc
+* Sewing machine, invetened by _Elias Howe_
+* Electric Telegraph, _Samuel F. B. Morse_
+
+### Railroads
+* Replace canals, become largest industry
+* Local merchants, farmers buy stocks to connect
+* Local governments grant loans, tax incentives
+    - First Federal Land Grant: 1850, Illinois Central Railroad from Lake Michigan ot gUlf of Mexico
+* Connect farmers, allow expansion of agriculture into west
+
+### Foreign Commerce
+* Growing exports, imports
+* Regular schedule for shipping across the atlantic
+* Whaling boom caused by desire for lights
+* Improvements in design of ships, _clipper_ ships let people get to California by sea in 3 months
+* Steamships in the 1850s, more storage capacity
+* _Commodore Matthew C. Perry_, convinces Japan to open up 2 ports to Americans
+* **Panic of 1857**
+    - Drop in prices, south less affected
+    - Boom and Bust Cycle
 
 ### Reflection: Indigenous People's History -- From Sea to Shining Sea
 1. In a few sentences, describe a similarity or difference in the experiences of Indigenous peoples from modern day Arizona, New Mexico, Texas, and California prior to the colonization by the United States.

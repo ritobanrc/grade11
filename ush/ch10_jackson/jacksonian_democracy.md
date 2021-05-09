@@ -17,7 +17,7 @@
 * **Universal male suffrage**
     - Indiana, Illinois, Missouri allow all males to vote/hold office
     - No religious/property requirements → expand to lower/middle class
-    - Remaining state follow
+    - Remaining states follow
 * **Party nominating conventions**
     - "nominating conventions" replace "King Causes" (private meeting among party higher-ups)
         - Basically just large meetings
@@ -194,5 +194,5 @@
     - Symbolize humble origins with log cabins on wheels in parades
     - Disturbed Hard cider and buttons and hats
 * 78% turnout, Whigs win 53% of popular vote
-* Harrison dies 1 month in, John Tyler, "His Accidency" takes of becomes president
+* Harrison dies 1 month in, John Tyler, "His Accidency" becomes president
     - Veots bank bills, favorable to south

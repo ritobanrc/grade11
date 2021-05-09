@@ -30,7 +30,7 @@
     - Revolutionary heroes enshrined
     - **Parson Mason Weems** writes fanfic mythologizing George Washington
     - **Noah Webster**'s spelling reform
-
+ 
 ### Economic Nationalism
 * Subsidizing internal improvements (roads and canals)
 * Protectionist policies to US industry
@@ -49,7 +49,7 @@
     - Constitution didn't explicitly allow federal spending on roads and canals
         - Monroe vetoed Congressional road/canal-building acts
 
-### Panic 1819
+### Panic of 1819
 * Second Bank tightens credit (to control inflation)
     - Leads to state banks closing
     - Value of money falls

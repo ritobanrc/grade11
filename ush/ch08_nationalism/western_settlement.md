@@ -38,7 +38,7 @@
 * **Clay's propoals**
     - Missouri admitted as slave state
     - Maine admitted as free state
-    - Slavery prohibited north of latitude 36° 30'
+    - Slavery prohibited north of latitude 36 30'
     - Passed by congress, signed by Monroe
 * **Aftermath**
     - Maintained for 30 years

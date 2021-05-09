@@ -1,0 +1,9 @@
+# Ch 13. The Union in Peril
+* Notes taken from Eric Foner's _Give Me Liberty_ Chapter 13 -- A House Divided 1840-1861
+
+## Fruits of Manifest Destiny
+* See Chapter 12
+
+## Conclusion
+One of the most interesting events that led to the Civil War was the case of Dred Scott v. Sandford. In this case, a slave Dred Scott, was taken into the Wisconsin territory by his master, and then returned to the slave state of Missouri. Dred Scott sued, first in state court, then in federal court, arguing that since he had been taken into a free state, he had been freed. However, when the case arrived at SCOTUS, instead of merely ruling on the case at hand, Justice Robert Taney ruled that (a) African Americans were not citizens protected by the US constitution, (b) that Congress doesn't have the authority to rule about slaves under the property clause, and (c) substantive due process must be respected -- the federal government cannot free the slaves without going through due process first. I think this ruling reveals several interesting things about the judicial philosophy used to approach it. As Justice Curtis's dissent points out, 5/13 states at the time of ratification allowed African Americans to vote, so (a) is just factually untrue. This reveals the underlying assumption with originalist interpretations of the Constitution, that past society was inherently more regressive, and that it can be used to enforce regressive and reactionary policies. Interesting, Justice Scalia compares the decision in Roe v. Wade to the Dred Scott decision, suggesting that their use of substantive due process is similar. I find it particularly interesting that the due process aspect is the part that Scalia chooses to focus on, instead of recognizing that one ruling expands the freedom of people, while the other vastly restricts it.
+
