@@ -39,3 +39,37 @@ Chapter 13 1. D 2. E 3. D 4. A 5. C 6. B 7. B 8. C 9. B 10. D Chapter 14 1. D 2.
 7. D 8. A 9. B 10. A Chapter 15 1. E 2. A 3. C 4. C 5. D 6. E 7. B 8. D 9. B 10. A Chapter 16 1. B 2. E 3. D 4. C 5. B 6. D 7. B 8. C 
 
 
+# The sections from Foner I still need to read
+* A House Divided
+    - Rise of the Republican Party
+    - The Emergence of Lincoln
+    - The Impending Crisis
+* The Civil War
+    - The First Modern War
+    - The Coming of Empancipation
+    - The Second Americna Revolution
+    - The Confederation Nation
+    - Turning Points
+    - Rehearsals for Reconstruction
+* Reconstruction
+    - The Meaning of Freedom
+    - The Making of Radical Reconstruction
+    - Radical Reconstruction in the South
+    - The Overthrow of Reconstruction
+* The Cold War
+    * The Cold War and the Idea of Freedom
+    * The Truman Presidency
+    * The Anticommunist Crusade
+* An Affluent Society
+    - The Golden Age
+    - The Eisenhower Era
+    - The Freedom Movement
+    - Election of 1960
+* The Sixties
+    - The Freedom Movement
+    - The Kennedy Years
+    - Lyndon Johnson's Presidency
+    - The Changing Black Movement
+    - Vietnam and the New Left
+    - The New Movement and Rights Revolution
+    - 1968

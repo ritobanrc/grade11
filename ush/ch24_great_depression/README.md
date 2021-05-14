@@ -492,7 +492,7 @@
     - Grand Coulee Dam floods lots of Indian Territory, doesn't give them any benefits
 
 ### The New Deal and Mexican-Americans
-* **Mexican Repatriation**
+* **Return to Mexico**
     - Many Mexicans return to Mexico in response to the New Deal
     - Some "urged" by local authorities
     - Agricultural workers in California benefited from dam construction (irrigation, electricity)

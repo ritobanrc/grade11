@@ -53,7 +53,7 @@
 * **Stirrings of Conflict**
     - Rule of Law disintegrating in Europe
     - Japan invades Manchuria, continues into Nanjing, massacre 300k
-    - _Stimson Doctrine_: Hoover Refuses to recognize Japan's invasion of Manchura
+    - _Stimson Doctrine_: Hoover Refuses to recognize Japan's invasion of Manchuria
 * **Three Fascists in Europe**
     - _Adolf Hitler_ comes to power in Nazi Germany
         * Expands German military, violation of Versailles Treaty
@@ -121,7 +121,7 @@
     - Even Disney supports intervention, _Its Fun to be Free_
 
 ### Pearl Harbor
-* **Attack of Pearl Harbor (7 Dec 1941)**
+* **Attack on Pearl Harbor (7 Dec 1941)**
     - Japanese bomb American naval base Pearl Harbor in Hawaii
     - 2k dead, and 187 aircraft, 18 naval vessels, and crucially, no aircraft carriers
 * **Declaration of War**

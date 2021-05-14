@@ -39,6 +39,7 @@
 - [Ch 12. Territorial and Economic Expansion](./ch12_manifest_destiny/README.md)
 - [Ch 13. The Union in Peril](./ch13_union_in_peril/README.md)
 - [Ch 14. The Civil War](./ch14_civil_war/README.md)
+    - [Documents](./ch14_civil_war/documents.md)
     - [Interpretation: Fate of the Confederacy](./ch14_civil_war/fate_of_confederacy.md)
 - [Ch 15. Reconstruction](./ch15_reconstruction/README.md)
     - [Lecture from Eric Foner](./ch15_reconstruction/foner.md)
@@ -56,3 +57,4 @@
 - [Ch 24. The Great Depression](./ch24_great_depression/README.md)
 - [Ch 25. World War II](./ch25_world_war_2/README.md)
 - [Ch 26. Truman and the Cold War](./ch26_truman_cold_war/README.md)
+- [Ch 27. An Affluent Society](./ch27_affluent_society/README.md)
